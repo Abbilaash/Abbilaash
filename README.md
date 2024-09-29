@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Tensorflow**
 
-- 👨‍💻 All of my projects are available at [https://abbilaash.github.io/](https://abbilaash.github.io/)
+- 👨‍💻 My website [https://abbilaash.github.io/](https://abbilaash.github.io/)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python and web development**
 
 - 📫 How to reach me **abbilaashat@gmail.com**
 
