@@ -74,7 +74,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Abbilaash/Abbilaash/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Abbilaash/Abbilaash/output/github-snake.svg" alt="Snake animation" />
 
 ###
 
