@@ -1,4 +1,13 @@
-![image](https://github.com/Abbilaash/Abbilaash/assets/78356376/3ed610b1-b018-4a78-9cf3-8d9ef2a73a2b)
+<h1>
+```plaintext
+       ╔══════════════════════════════════════════════════════════════╗             
+       ║                                                              ║             
+       ║                Anandkumar NS • Tech Innovator                ║             
+       ║               AI/ML Developer • Full Stack Engineer          ║             
+       ║                                                              ║             
+       ╚══════════════════════════════════════════════════════════════╝             
+```
+</h1>
 
 <h1 align="center">Hi 👋, I'm Abbilaash</h1>
 <h3 align="center">A passionate Machine Learning and Computer Vision Engineer</h3>
