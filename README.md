@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abbilaash and I'm a Passionate AI/ML Developer</h2>
+<h2 align="left">Hi 👋! My name is Abbilaash and I'm a Passionate ML Developer and Quantum Computing Researcher</h2>
 
 ###
 
